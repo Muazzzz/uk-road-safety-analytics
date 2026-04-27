@@ -1,0 +1,10 @@
+casualty_class_label,casualty_severity_label,count
+Driver or rider,Fatal,3900
+Driver or rider,Serious,61486
+Driver or rider,Slight,278604
+Passenger,Fatal,956
+Passenger,Serious,14092
+Passenger,Slight,83218
+Pedestrian,Fatal,1497
+Pedestrian,Serious,19737
+Pedestrian,Slight,48760

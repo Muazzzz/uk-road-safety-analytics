@@ -1,0 +1,7 @@
+sex_label,casualty_severity_label,count
+Female,Fatal,1512
+Female,Serious,29673
+Female,Slight,161544
+Male,Fatal,4841
+Male,Serious,65495
+Male,Slight,244823

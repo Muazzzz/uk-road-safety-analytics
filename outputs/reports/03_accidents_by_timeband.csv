@@ -1,0 +1,8 @@
+time_band,total,fatal,fatal_rate_%
+AM Peak (7-9),58339,577,0.99
+Afternoon (13-15),83630,1025,1.23
+Evening (19-21),51631,909,1.76
+Mid-Morning (10-12),62085,860,1.39
+Night (22-24),20206,492,2.43
+Overnight (0-6),30198,1028,3.4
+PM Peak (16-18),96459,1098,1.14

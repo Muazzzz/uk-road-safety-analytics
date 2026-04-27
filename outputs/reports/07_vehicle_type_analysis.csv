@@ -1,0 +1,21 @@
+vehicle_type_label,total_involved,in_fatal,fatal_involvement_%
+Car,502850,6511,1.29
+Pedal cycle,65869,465,0.71
+Van / Goods 3.5 tonnes mgw or under,46857,781,1.67
+Motorcycle 125cc and under,35577,275,0.77
+Motorcycle over 500cc,17311,906,5.23
+Taxi/Private hire car,11446,105,0.92
+Bus or coach (over 16 passenger seats),11145,163,1.46
+Goods 7.5 tonnes mgw and over,10632,735,6.91
+Motorcycle over 125cc and up to 500cc,7598,142,1.87
+Motorcycle 50cc and under,4468,14,0.31
+Other vehicle,3858,93,2.41
+Goods vehicle - unknown weight,3595,46,1.28
+Goods over 3.5t. and under 7.5t,3287,120,3.65
+Motorcycle - unknown cc,2203,38,1.72
+Agricultural vehicle,1610,77,4.78
+Mobility scooter,1151,35,3.04
+Minibus (8-16 passenger seats),1132,21,1.86
+Electric motorcycle,973,11,1.13
+Ridden horse,308,2,0.65
+Tram,67,3,4.48

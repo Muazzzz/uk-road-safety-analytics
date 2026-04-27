@@ -1,0 +1,23 @@
+{
+  "name": "UK Road Safety",
+  "dataColors": [
+    "#003f5c",
+    "#2f4b7c",
+    "#665191",
+    "#a05195",
+    "#d45087",
+    "#f95d6a",
+    "#ff7c43",
+    "#ffa600"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#003f5c",
+  "tableAccent": "#003f5c",
+  "good": "#27ae60",
+  "neutral": "#f39c12",
+  "bad": "#d45087",
+  "maximum": "#d45087",
+  "center": "#ff7c43",
+  "minimum": "#003f5c",
+  "null": "#e0e0e0"
+}

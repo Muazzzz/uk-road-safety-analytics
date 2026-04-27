@@ -1,0 +1,7 @@
+junction_label,speed_limit_label,total,fatal,serious,fatal_rate_%,serious_rate_%,ksi_rate_%
+Not at junction,60 mph,34904,1541,10356,4.41,29.67,34.08
+Not at junction,50 mph,12076,415,2882,3.44,23.87,27.3
+Not at junction,70 mph,21052,689,4282,3.27,20.34,23.61
+Not at junction,40 mph,21345,411,4897,1.93,22.94,24.87
+Not at junction,30 mph,98797,991,20533,1.0,20.78,21.79
+Not at junction,20 mph,20129,104,3750,0.52,18.63,19.15

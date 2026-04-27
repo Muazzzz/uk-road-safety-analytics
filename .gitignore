@@ -1,0 +1,46 @@
+# ── Large data files (too big for GitHub — regenerate with 01_data_download.py) ──
+data/raw/
+data/processed/
+data/exports/
+
+# Keep the folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/exports/.gitkeep
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Environments ─────────────────────────────────────────────────────────────
+.env
+.venv
+venv/
+env/
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+
+# ── Temp / helper scripts ─────────────────────────────────────────────────────
+python/check_urls.py
+
+# ── SQLite database (regenerate with sql scripts) ─────────────────────────────
+*.db
+*.sqlite
+*.sqlite3

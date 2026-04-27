@@ -1,0 +1,9 @@
+factor,chi2,p_value,dof,significant_at_1%,cramers_v
+weather_label,1184.71,0.0,16,True,0.0384
+road_surface_label,929.81,0.0,12,True,0.034
+light_label,3176.43,0.0,10,True,0.0628
+speed_limit_label,7108.61,0.0,12,True,0.094
+day_of_week_label,522.63,0.0,12,True,0.0255
+urban_rural_label,4884.22,0.0,6,True,0.0779
+junction_label,1041.8,0.0,2,True,0.0509
+road_type_label,2882.64,0.0,10,True,0.0598

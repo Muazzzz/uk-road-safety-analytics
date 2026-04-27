@@ -156,4 +156,5 @@ Follow `power_bi/power_bi_guide.md` using `data/exports/`.
 
 ---
 
-*Built by Muaz Aamir | muazaamir97@gmail.com | UK Data Analytics Portfolio 2024*
+*Built by Muaz Aamir | muazaamir97@gmail.com | UK Data Analytics Portfolio 2024* 
+LinkedIn -- https://www.linkedin.com/in/muazaamir97/
